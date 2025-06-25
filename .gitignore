@@ -28,6 +28,5 @@ Thumbs.db
 # Project specific
 /build/
 /dist/
-/docs/
 coverage.txt
 *.log
